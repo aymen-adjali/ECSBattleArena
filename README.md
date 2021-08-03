@@ -33,8 +33,8 @@ students are low HP instead of attacking.
 - Command line
 
 ## Video
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+
+https://github.com/aymen-adjali/ECSBattleArena/blob/main/video/simulation.mkv
 
 ## Usage
 A Monsters.txt file (in the correct format) is needed in order to provide monsters for the students to fight. 
