@@ -11,7 +11,7 @@ The project is a simulation between monsters and students. The aim is to use a c
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-I undertook this project too:
+I undertook this project to:
 - Understand how to construct classes and implement methods.
 - Have a better understanding of object-oriented programming.
 - Understand how to use polymorphism and work with inputs and outputs.
@@ -34,7 +34,7 @@ students are low HP instead of attacking.
 
 ## Video
 
-https://github.com/aymen-adjali/ECSBattleArena/blob/main/video/simulation.mkv
+![Simulation](./video/simulation.gif)
 
 ## Usage
 A Monsters.txt file (in the correct format) is needed in order to provide monsters for the students to fight. 
