@@ -34,7 +34,7 @@ students are low HP instead of attacking.
 
 ## Video
 
-![Simulation](./video/ECSBattleArena.gif)
+https://user-images.githubusercontent.com/76476479/128024083-647f2f6e-3d5a-497f-939c-1966992cf9a1.mp4
 
 ## Usage
 A Monsters.txt file (in the correct format) is needed in order to provide monsters for the students to fight. 
