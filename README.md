@@ -4,7 +4,7 @@ The project is a simulation between monsters and students. The aim is to use a c
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Screenshots](#screenshots)
+* [Video](#video)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
@@ -32,7 +32,7 @@ students are low HP instead of attacking.
 - Java
 - Command line
 
-## Screenshots
+## Video
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
@@ -46,6 +46,7 @@ javac TowerOfMonsters.java
 java TowerOfMonsters (file(change location if necessary) that you want to use to run the simulation with).
 eg: java TowerOfMonsters ../Monsters.txt
 
+### Example Monster.txt file
 ![Example of Monsters.txt file](./images/monsters.png)
 
 ## Project Status
