@@ -2,13 +2,16 @@
 The project is a simulation between monsters and students. The aim is to use a combination of different student types and abilities to beat the tower of monsters. Written in Java.
 
 ## Table of Contents
+* [Video](#video)
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Video](#video)
 * [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
+
+## Video
+https://user-images.githubusercontent.com/76476479/128240429-7996a98a-4b6a-4d1f-b831-abc88099d597.mp4
 
 ## General Information
 I undertook this project to:
@@ -32,10 +35,6 @@ students are low HP instead of attacking.
 - Java
 - Command line
 
-## Video
-
-https://user-images.githubusercontent.com/76476479/128024083-647f2f6e-3d5a-497f-939c-1966992cf9a1.mp4
-
 ## Usage
 A Monsters.txt file (in the correct format) is needed in order to provide monsters for the students to fight. 
 Each line in the file is a new "level" of monsters. Made up of minions and bosses.
@@ -57,7 +56,7 @@ Project is: _complete_
 Room for improvement:
 - Add a GUI for the simulation.
 - Add new student types with different abilities. 
-- Adjust StudentTeam to be smarter/more optimise for calculating student attacks.
+- Adjust StudentTeam to be smarter/more optimised for calculating student attacks.
 
 ## Acknowledgements
 - This project was inspired by [The Electronics and Computer Science department at The University Of Southampton](https://www.ecs.soton.ac.uk/).
